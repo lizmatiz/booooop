@@ -1,0 +1,16 @@
+space class
+- constructor
+- space mutator
+- space accessor
+
+
+
+boop class
+
+board first number row, second number column (use two for loops to iterate)
+
+move number
+cats and kittens
+
+character is INTEGER
+
